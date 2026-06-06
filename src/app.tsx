@@ -104,7 +104,7 @@ const portfolioData: PortfolioData = {
       role: 'Software Engineer',
       company: 'ICS Mobile Pvt Ltd',
       location: 'Bengaluru',
-      period: 'Aug 2021 – Present',
+      period: 'Aug 2021 – Dec 2024',
       description: [
         'Database design and maintenance of customer information systems for enterprise clients',
         'Built internal automation tools using React and TypeScript for data processing workflows',
