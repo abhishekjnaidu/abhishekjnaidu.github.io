@@ -53,7 +53,11 @@ const portfolioData: PortfolioData = {
   },
 
   about: {
-    bio: "I'm Abhishek Naidu, a software engineer passionate about building modern applications, cloud solutions, and automation tools. With 5+ years at ICS Mobile, I specialize in database design, enterprise software solutions, and creating tools that deliver real-world impact. I enjoy learning new technologies, solving complex problems, and crafting products that make a difference.",
+    bio: "Professional Backend & SaaS Engineer specializing in database optimization, enterprise tool customization, and performance tuning.
+
+Currently at Accenture, I engineer backend configurations and enhancements for a major automated P2P invoice processing tool, transforming complex client requirements into scalable system architecture. I thrive on deep-diving into complex MS SQL queries, fixing critical application bugs, and maximizing database performance.
+
+Driven by technical problem-solving on the clock, and exploring new destinations, movies, or gaming off it.",
   },
 
   skills: [
