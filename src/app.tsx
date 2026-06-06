@@ -53,11 +53,7 @@ const portfolioData: PortfolioData = {
   },
 
   about: {
-    bio: "Professional Backend & SaaS Engineer specializing in database optimization, enterprise tool customization, and performance tuning.
-
-Currently at Accenture, I engineer backend configurations and enhancements for a major automated P2P invoice processing tool, transforming complex client requirements into scalable system architecture. I thrive on deep-diving into complex MS SQL queries, fixing critical application bugs, and maximizing database performance.
-
-Driven by technical problem-solving on the clock, and exploring new destinations, movies, or gaming off it.",
+    bio: "Professional Backend & SaaS Engineer specializing in database optimization, enterprise tool customization, and performance tuning. Currently at Accenture, I engineer backend configurations and enhancements for a major automated P2P invoice processing tool, transforming complex client requirements into scalable system architecture. I thrive on deep-diving into complex MS SQL queries, fixing critical application bugs, and maximizing database performance. Driven by technical problem-solving on the clock, and exploring new destinations, movies, or gaming off it.",
   },
 
   skills: [
